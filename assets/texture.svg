@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" preserveAspectRatio="xMidYMid" width="256" height="256" style="shape-rendering: auto; background: rgb(0, 109, 161);"><defs>
+  <pattern id="pid-0.5402655890077561" x="0" y="0" width="128" height="128" patternUnits="userSpaceOnUse">
+    <g id="pattern-group" transform="scale(0.5)"><defs><g id="stripe-0.6780650246356913">
+  <path d="M256 -128 L384 -128 L-128 384 L-128 256 Z M384 0 L384 128 L128 384 L0 384 Z"/>
+</g>
+
+<g id="g-stripe-0.6780650246356913">
+  <use xlink:href="#stripe-0.6780650246356913" x="-256" y="0" fill="#36bdfd"/>
+  <use xlink:href="#stripe-0.6780650246356913" x="0" y="0" fill="#36bdfd"/>
+  <animateTransform attributeName="transform" type="translate" keyTimes="0;1" repeatCount="indefinite" dur="0.5s" values="0 0; 256 0"/>
+</g>
+
+</defs>
+
+<g transform="translate(-128,-128) scale(0.5,0.5)"><use xlink:href="#g-stripe-0.6780650246356913"/></g>
+<g transform="translate(-128,128) scale(0.5,0.5)"><use xlink:href="#g-stripe-0.6780650246356913"/></g>
+<g transform="translate(128,-128) scale(0.5,0.5)"><use xlink:href="#g-stripe-0.6780650246356913"/></g>
+<g transform="translate(128,128) scale(0.5,0.5)"><use xlink:href="#g-stripe-0.6780650246356913"/></g>
+
+<g>
+  <use xlink:href="#stripe-0.6780650246356913" x="-256" y="0" fill="#b8e8ff"/>
+  <use xlink:href="#stripe-0.6780650246356913" x="0" y="0" fill="#b8e8ff"/>
+  <animateTransform attributeName="transform" type="translate" keyTimes="0;1" repeatCount="indefinite" dur="0.5s" values="0 0; 256 0"/>
+</g>
+</g>
+  </pattern>
+</defs>
+<rect x="0" y="0" width="256" height="256" fill="url(#pid-0.5402655890077561)"/><style type="text/css"/></svg>

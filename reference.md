@@ -1,0 +1,2 @@
+- **Reference ⬇️**
+  - [Loading Texture](https://loading.io/pattern/)
